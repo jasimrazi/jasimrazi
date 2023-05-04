@@ -1,5 +1,5 @@
 # 💫 About Me:
-∙ Aspiring data analyst<br>Proficient in Python and SQL<br> ∙ Passionate about discovering insights and telling stories through data<br> ∙ Interested in data-driven solutions to real-world problems<br>Avid learner through online courses and projects
+• Aspiring data analyst<br> • Proficient in Python and SQL<br> • Passionate about discovering insights and telling stories through data<br> • Interested in data-driven solutions to real-world problems<br> • Avid learner through online courses and projects
 
 
 ## 🌐 Socials:
