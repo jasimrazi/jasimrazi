@@ -1,5 +1,5 @@
 # 💫 About Me:
-- Aspiring data analyst<br>- Proficient in Python and SQL<br>- Passionate about discovering insights and telling stories through data<br>- Interested in data-driven solutions to real-world problems<br>- Avid learner through online courses and projects
+Aspiring data analyst<br>Proficient in Python and SQL<br>Passionate about discovering insights and telling stories through data<br>Interested in data-driven solutions to real-world problems<br>Avid learner through online courses and projects
 
 
 ## 🌐 Socials:
@@ -11,12 +11,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=jasimrazi&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jasimrazi&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jasimrazi&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
-
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=jasimrazi&icon=5&color=3)](https://visitcount.itsvg.in)
