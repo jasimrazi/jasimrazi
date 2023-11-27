@@ -1,6 +1,9 @@
 # 💫 About Me:
-• Aspiring data analyst<br> • Proficient in Python and SQL<br> • Passionate about discovering insights and telling stories through data<br> • Interested in data-driven solutions to real-world problems<br> • Avid learner through online courses and projects
-
+• Aspiring Flutter Developer<br>
+• Proficient in Dart (Flutter's programming language) and Firebase<br>
+• Passionate about creating dynamic and visually engaging mobile applications<br>
+• Interested in leveraging Flutter to build innovative solutions for real-world challenges<br>
+• Avid learner through online courses and hands-on Flutter projects
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jasimrazi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jasimrazi) 
